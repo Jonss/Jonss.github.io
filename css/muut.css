@@ -30,12 +30,12 @@ li a {
 }
 
 .navigation {
-	width: 30%;
+	width: 25%;
 }
 
 .navigation ul li {
 	display: inline-block;
-	margin-right: 10%;
+	margin-right: 5%;
 }
 
 .img-social {
